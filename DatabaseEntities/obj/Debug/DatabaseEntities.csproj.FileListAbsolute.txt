@@ -1,0 +1,68 @@
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\UserApp(.NET Framework)\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\Метод ранга на примере пекарни\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.AssemblyReference.cache
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Выбор перевозчика методом предпочтений (на прим. мор. порта)\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\Принятие реш. в усл. недостатка инфы на примере поликлиники\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
