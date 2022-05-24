@@ -1,0 +1,41 @@
+﻿<Window x:Class="Front_End_Three.UnblockExpert"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Front_End_Three"
+        mc:Ignorable="d"
+        Title="UnblockExpert" Height="200" Width="500">
+    <Window.Background>
+        <ImageBrush>
+            <ImageBrush.ImageSource>
+                <BitmapImage UriSource="kondit.jpg"></BitmapImage>
+            </ImageBrush.ImageSource>
+        </ImageBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" MaxHeight="150"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="40"></ColumnDefinition>
+            <ColumnDefinition Width="340"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="2" FontWeight="Thin" Foreground="White" FontSize="30" VerticalAlignment="Center">Разблокировка</TextBlock>
+        <TextBox PreviewMouseDown="LoginInput_PreviewMouseDown" Style="{DynamicResource TextBoxStyleInput}" Name="LoginInput" MaxHeight="30" Grid.Row="1" Grid.Column="2" Padding="3 5" Text="Введите логин" Background="White" Width="auto" MinWidth="300"></TextBox>
+        <Button Style="{DynamicResource ButtonStyleSubmit}" Grid.Row="1" MaxHeight="30" Grid.Column="3" MaxWidth="20" Click="FindExpret_Click" Cursor="Hand" Background="White" Content="Найти" MinWidth="60" BorderBrush="White"/>
+        <Button Style= "{DynamicResource ButtonStyleGoBack}" Grid.Row="1" Grid.Column="1" Cursor="Hand" FontSize="40" Foreground="White" Content="«" Name="GoBack" Click="GoBack_Click" RenderTransformOrigin="0.5,0.5"  MaxHeight="50" MaxWidth="30" Margin="0,36,0,0" Grid.RowSpan="2">
+            <Button.Background>
+                <SolidColorBrush Color="Transparent"></SolidColorBrush>
+            </Button.Background>
+            <Button.BorderBrush>
+                <SolidColorBrush Color="Transparent"></SolidColorBrush>
+            </Button.BorderBrush>
+        </Button>
+    </Grid>
+</Window>

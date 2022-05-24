@@ -1,0 +1,11 @@
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\obj\Debug\DB.csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\obj\Debug\DatabaseEntities.pdb

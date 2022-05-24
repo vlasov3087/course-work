@@ -129,22 +129,36 @@ namespace TCPConnectionAPI_C_sharp_
 
         protected virtual void UserHandler(object client)
         {
-            ConnectedUserInfo user = client as ConnectedUserInfo;
-            while (true)
+            try
             {
-                user.DB_Id = Validation(ref user);
-                if (user.DB_Id <= 0) { Console.WriteLine("Client disconnected"); user.ConnectionSocket.Close(); return; }
-                switch (user.Type)
+                ConnectedUserInfo user = client as ConnectedUserInfo;
+                while (true)
                 {
-                    case TypeOfUser.Admin:
-                        { AdminHandler(user); break; }
-                    case TypeOfUser.Client:
-                        { ClientHandler(user); break; }
-                    case TypeOfUser.Expert:
-                        { ExpertHandler(user); break; }
-                    default:
-                        break;
+                    user.DB_Id = Validation(ref user);
+                    if (user.DB_Id <= 0) { Console.WriteLine("Клиент отключился"); user.ConnectionSocket.Close(); return; }
+                    switch (user.Type)
+                    {
+                        case TypeOfUser.Admin:
+                            { AdminHandler(user); break; }
+                        case TypeOfUser.Client:
+                            { ClientHandler(user); break; }
+                        case TypeOfUser.Expert:
+                            { ExpertHandler(user); break; }
+                        default:
+                            break;
+                    }
                 }
+            }
+
+            catch (System.Net.Sockets.SocketException)
+            {
+                Console.WriteLine("Клиент отключился");
+                return;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.StackTrace);
+                return;
             }
         }
 

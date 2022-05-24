@@ -66,3 +66,38 @@ C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взве�
 C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\bin\Debug\EntityFramework.xml
 C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\Front-End-Three\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.AssemblyReference.cache
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\DatabaseEntities\obj\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\obj\Debug\DatabaseEntities.csprojAssemblyReference.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\obj\Debug\DatabaseEntities.csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\obj\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\obj\Debug\DatabaseEntities.pdb

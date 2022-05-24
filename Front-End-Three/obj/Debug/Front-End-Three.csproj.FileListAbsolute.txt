@@ -1,0 +1,278 @@
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three.csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three.csproj.SuggestedBindingRedirects.cache
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\MainWindow.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\App.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three_MarkupCompile.cache
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three_MarkupCompile.lref
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\Front-End-Three.exe.config
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\Front-End-Three.exe
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\Front-End-Three.pdb
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\App.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\MainWindow.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three.g.resources
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front_End_Three.Properties.Resources.resources
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three.csproj.GenerateResource.cache
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three.exe
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three.pdb
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindUser.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\MainContentWindow.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Registration.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Add.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\AddAdmin.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\AddExpert.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\AddUser.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\BlockAdmin.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\BlockExpert.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\BlockUser.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Delete.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\DeleteAdmin.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\DeleteExpert.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\DeleteUser.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Edit.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\EditUser.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\ExpertMenu.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\ExpertRegistration.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindAdmin.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindBySomething.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindExpert.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\UnblockAdmin.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\UnblockExpert.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\UnblockUser.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\UserMenu.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Add.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\AddAdmin.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\AddExpert.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\AddUser.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\BlockAdmin.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\BlockExpert.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\BlockUser.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Delete.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\DeleteAdmin.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\DeleteExpert.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\DeleteUser.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Edit.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\EditUser.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\ExpertMenu.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\ExpertRegistration.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindAdmin.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindBySomething.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindExpert.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindUser.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\MainContentWindow.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Registration.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\UnblockAdmin.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\UnblockExpert.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\UnblockUser.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\UserMenu.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\EntityFramework.dll
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\DatabaseEntities.dll.config
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\EntityFramework.xml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Front-End-Three.csproj.CopyComplete
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Sort.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Sort.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Filtration.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\Filtration.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\AddProduct.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\DeleteProduct.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\EditProduct.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindProduct.g.cs
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\AddProduct.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\DeleteProduct.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\EditProduct.baml
+C:\Users\stani\source\repos\Front-End-Three\Front-End-Three\obj\Debug\FindProduct.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\Front-End-Three.exe.config
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\Front-End-Three.exe
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\Front-End-Three.pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\DatabaseEntities.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\EntityFramework.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\DatabaseEntities.pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\DatabaseEntities.dll.config
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\EntityFramework.xml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front-End-Three.csproj.AssemblyReference.cache
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Add.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\AddAdmin.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\AddExpert.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\AddProduct.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\AddUser.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\BlockAdmin.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\BlockExpert.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\BlockUser.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Delete.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\DeleteAdmin.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\DeleteExpert.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\DeleteProduct.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\DeleteUser.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Edit.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\EditProduct.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\EditUser.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\ExpertMenu.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\ExpertRegistration.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Filtration.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindAdmin.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindBySomething.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindExpert.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindProduct.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindUser.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\MainContentWindow.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\MainWindow.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Registration.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Sort.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\UnblockAdmin.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\UnblockExpert.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\UnblockUser.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\UserMenu.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\App.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front-End-Three_MarkupCompile.cache
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front-End-Three_MarkupCompile.lref
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\App.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Add.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\AddAdmin.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\AddExpert.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\AddProduct.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\AddUser.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\BlockAdmin.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\BlockExpert.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\BlockUser.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Delete.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\DeleteAdmin.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\DeleteExpert.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\DeleteProduct.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\DeleteUser.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Edit.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\EditProduct.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\EditUser.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\ExpertMenu.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\ExpertRegistration.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Filtration.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindAdmin.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindBySomething.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindExpert.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindProduct.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\FindUser.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\MainContentWindow.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\MainWindow.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Registration.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Sort.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\UnblockAdmin.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\UnblockExpert.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\UnblockUser.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\UserMenu.baml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front-End-Three.g.resources
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front_End_Three.Properties.Resources.resources
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front-End-Three.csproj.GenerateResource.cache
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front-End-Three.csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front-End-Three.csproj.CopyComplete
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front-End-Three.exe
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\Front-End-Three.pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\ExpertMethod.g.cs
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\Front-End-Three\obj\Debug\ExpertMethod.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\Front-End-Three.exe.config
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\Front-End-Three.exe
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\Front-End-Three.pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front-End-Three.csprojAssemblyReference.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Add.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\AddAdmin.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\AddExpert.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\AddProduct.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\AddUser.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\BlockAdmin.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\BlockExpert.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\BlockUser.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Delete.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\DeleteAdmin.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\DeleteExpert.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\DeleteProduct.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\DeleteUser.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Edit.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\EditProduct.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\EditUser.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\ExpertMenu.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\ExpertMethod.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\ExpertRegistration.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Filtration.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindAdmin.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindBySomething.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindExpert.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindProduct.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindUser.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\MainContentWindow.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\MainWindow.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Registration.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Sort.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\UnblockAdmin.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\UnblockExpert.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\UnblockUser.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\UserMenu.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\App.g.cs
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front-End-Three_MarkupCompile.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front-End-Three_MarkupCompile.lref
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\App.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Add.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\AddAdmin.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\AddExpert.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\AddProduct.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\AddUser.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\BlockAdmin.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\BlockExpert.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\BlockUser.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Delete.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\DeleteAdmin.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\DeleteExpert.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\DeleteProduct.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\DeleteUser.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Edit.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\EditProduct.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\EditUser.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\ExpertMenu.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\ExpertMethod.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\ExpertRegistration.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Filtration.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindAdmin.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindBySomething.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindExpert.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindProduct.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\FindUser.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\MainContentWindow.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\MainWindow.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Registration.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Sort.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\UnblockAdmin.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\UnblockExpert.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\UnblockUser.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\UserMenu.baml
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front-End-Three.g.resources
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front_End_Three.Properties.Resources.resources
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front-End-Three.csproj.GenerateResource.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front-End-Three.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front-End-Three.csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front-End-Three.exe
+C:\Users\AndreyVlasov\source\repos\CourseWork\Front-End-Three\obj\Debug\Front-End-Three.pdb

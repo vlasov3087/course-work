@@ -1,0 +1,51 @@
+﻿<Window x:Class="Front_End_Three.AddExpert"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Front_End_Three"
+        mc:Ignorable="d"
+        Title="AddExpert" Height="430" Width="450">
+    <Window.Background>
+        <ImageBrush>
+            <ImageBrush.ImageSource>
+                <BitmapImage UriSource="kondit.jpg"></BitmapImage>
+            </ImageBrush.ImageSource>
+        </ImageBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition MinHeight="250"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition MinWidth="360"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" FontWeight="Bold" Foreground="White" FontSize="25">Добавление эксперта</TextBlock>
+        <StackPanel  Margin="10 10 10 0" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1">
+            <TextBox PreviewMouseDown="loginInputBox_PreviewMouseDown" Style="{DynamicResource TextBoxStyleInput}" Name="loginInputBox" Padding="3 5" Margin="0 0 0 10" Text="Введите логин" Width="150" MinWidth="150"></TextBox>
+            <TextBox PreviewMouseDown="passwordInputBox_PreviewMouseDown" Style="{DynamicResource TextBoxStyleInput}" Name="passwordInputBox" Padding="3 5" Margin="0 0 0 10" Text="Введите пароль" Width="150" MinWidth="150"></TextBox>
+            <TextBox PreviewMouseDown="passwordInputBoxRepeat_PreviewMouseDown" Style="{DynamicResource TextBoxStyleInput}" Name="passwordInputBoxRepeat" Padding="3 5" Margin="0 0 0 10" Text="Повторите пароль" Width="150" MinWidth="150"></TextBox>
+            <TextBox PreviewMouseDown="totalRateBox_PreviewMouseDown" Style="{DynamicResource TextBoxStyleInput}" Name="totalRateBox" Padding="3 5" Margin="0 0 0 20" Text="Введите вес оценки" Width="150" MinWidth="150"></TextBox>
+
+            <Button Margin="0 10 0 10" Cursor="Hand" Style="{DynamicResource ButtonStyleSubmit}" Name="AddPhoto" Padding="3 4" MaxWidth="150" Content="Выбрать фото" Click="AddPhoto_Click">
+            </Button>
+            <Button Cursor="Hand" Style="{DynamicResource ButtonStyleSubmit}" Click="AddExpert_Click" Name="AddExpertBtn" Padding="3 4" MaxWidth="150" Content="Добавить">
+
+            </Button>
+        </StackPanel>
+        <Button Style= "{DynamicResource ButtonStyleGoBack}" Grid.Column="0" Grid.Row="2" Cursor="Hand" FontSize="40" Foreground="White" Content="«" Name="GoBack" Click="GoBack_Click" RenderTransformOrigin="0.5,0.5" MaxHeight="50" MaxWidth="30" Margin="0,160,0,0" Grid.RowSpan="2">
+            <Button.Background>
+                <SolidColorBrush Color="Transparent"></SolidColorBrush>
+            </Button.Background>
+            <Button.BorderBrush>
+                <SolidColorBrush Color="Transparent"></SolidColorBrush>
+            </Button.BorderBrush>
+        </Button>
+    </Grid>
+</Window>

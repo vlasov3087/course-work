@@ -1,0 +1,100 @@
+﻿<Window x:Class="Front_End_Three.DeleteUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Front_End_Three"
+        mc:Ignorable="d"
+        Title="DeleteUser" Height="450" Width="700">
+    <Window.Background>
+        <ImageBrush>
+            <ImageBrush.ImageSource>
+                <BitmapImage UriSource="kondit.jpg"></BitmapImage>
+            </ImageBrush.ImageSource>
+        </ImageBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="120"></RowDefinition>
+            <RowDefinition MinHeight="180"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MaxWidth="20"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition MinWidth="400"></ColumnDefinition>
+            <ColumnDefinition Width="130"></ColumnDefinition>
+            <ColumnDefinition MaxWidth="80"></ColumnDefinition>
+            <ColumnDefinition MaxWidth="20"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="1" Grid.Column="2" FontWeight="Bold" Foreground="White" FontSize="40" VerticalAlignment="Center">Удаление</TextBlock>
+        <Menu Style="{DynamicResource MenuStyle}" HorizontalAlignment="Left" MaxWidth="250" Height="18" Grid.Row="1" Grid.Column="2" Name="MainMenuFind" Margin="0,60,0,70" Grid.RowSpan="2" Width="122">
+            <Menu.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <VirtualizingStackPanel Orientation="Vertical"/>
+                </ItemsPanelTemplate>
+            </Menu.ItemsPanel>
+            <MenuItem Header="Категория поиска..."  Style="{DynamicResource MenuItemStyle}" Name="TopMenuItem">
+                <MenuItem Cursor="Hand" Margin="0 4 0 0" Padding="6 2" Style="{DynamicResource MenuItemStyle}" Header="Поиск по логину" Name="FindByLogin" Click="FindByLogin_Click">
+
+                </MenuItem>
+                <MenuItem Cursor="Hand" Margin="0 4 0 0" Padding="6 2" Style="{DynamicResource MenuItemStyle}" Header="Вывод всех данных" Name="ShowAll" Click="ShowAll_Click">
+
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Button Style="{DynamicResource ButtonStyleSubmit}" Grid.Row="2" MaxHeight="30" Grid.Column="3" MaxWidth="20" Click="FindUser_Click" Cursor="Hand" Background="White" Content="Найти" MinWidth="70" BorderBrush="White"/>
+        <StackPanel Grid.Column="2" Grid.Row="3" VerticalAlignment="Top" Orientation="Vertical" Width="380" HorizontalAlignment="Left">
+            <StackPanel>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="100"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Image Margin="0 0 2 0" Grid.Column="0" Grid.Row="0" Source="Resources/defaultPhoto.png" Name="UserImage"/>
+                    <ListBox Grid.Row="0" Grid.Column="1">
+                        <ListBoxItem>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Логин: " Margin="0 0 10 0"></TextBlock>
+                                <TextBlock Text="____" Name="UserLogin"></TextBlock>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Статус: " Margin="0 0 10 0"></TextBlock>
+                                <TextBlock Text="____" Name="UserStatus"></TextBlock>
+                            </StackPanel>
+                        </ListBoxItem>
+                        <ListBoxItem>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Последний онлайн: " Margin="0 0 10 0"></TextBlock>
+                                <TextBlock Text="____" Name="UserLastOnline"></TextBlock>
+                            </StackPanel>
+                        </ListBoxItem>
+                    </ListBox>
+                </Grid>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 10">
+                <Button Name="LeftArrow" Height="25" Width="25" Margin="0 0 10 0" Style="{DynamicResource ButtonLeftRight}" Content="🠘" Click="LeftArrow_Click"></Button>
+                <Button Name="RightArrow" Height="25" Width="25" Style="{DynamicResource ButtonLeftRight}" Content="🠚" Click="RightArrow_Click"></Button>
+            </StackPanel>
+        </StackPanel>
+
+        <TextBox  Margin="0 30 0 0" PreviewMouseDown="DataInput_PreviewMouseDown" Style="{DynamicResource TextBoxStyleInput}" FontSize="16" MinWidth="400" HorizontalAlignment="Left" VerticalAlignment="Center" MinHeight="40" Name="DataInput" Grid.Row="2" Grid.Column="2" Padding="3 5" Text="Введите данные"></TextBox>
+        <Button Style="{DynamicResource ButtonStyleSubmit}" Grid.Row="3" MaxHeight="30" Grid.Column="3" MaxWidth="30" Click="FindUser_Click" Cursor="Hand" Content="Удалить" MinWidth="70" BorderBrush="White" RenderTransformOrigin="0.7,0.75"/>
+        <Button Style= "{DynamicResource ButtonStyleGoBack}" Grid.Row="3" Grid.Column="1" Cursor="Hand" FontSize="40" Foreground="White" Content="«" Name="GoBack" Click="GoBack_Click" RenderTransformOrigin="0.5,0.5"  MaxHeight="50" MaxWidth="30" Margin="0,36,0,0" Grid.RowSpan="2" HorizontalAlignment="Center" Width="65">
+            <Button.Background>
+                <SolidColorBrush Color="Transparent"></SolidColorBrush>
+            </Button.Background>
+            <Button.BorderBrush>
+                <SolidColorBrush Color="Transparent"></SolidColorBrush>
+            </Button.BorderBrush>
+        </Button>
+    </Grid>
+</Window>

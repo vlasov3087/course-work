@@ -1,0 +1,12 @@
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\obj\Debug\TCPConnection.csprojAssemblyReference.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\obj\Debug\TCPConnection.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\obj\Debug\TCPConnection.csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\obj\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\ClassLibraryForTCPConnectionAPI(C-sharp)\obj\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb

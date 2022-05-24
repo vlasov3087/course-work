@@ -117,3 +117,54 @@ C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взве�
 C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csproj.CopyComplete
 C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).dll
 C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.dll
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.pdb
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll.config
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.xml
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csproj.CopyComplete
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\stani\source\repos\Front-End-Three\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.pdb
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll.config
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.xml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csproj.AssemblyReference.cache
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csproj.CoreCompileInputs.cache
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csproj.CopyComplete
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\ivan\source\repos\Пример сорт. метод. взвешенных оценок на примере кондитерской\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll.config
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\TCPConnectionAPIClientModule(C-sharp).pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\ClassLibraryForTCPConnectionAPI(C-sharp).pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csprojAssemblyReference.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).dll
+C:\Users\AndreyVlasov\source\repos\CourseWork\TCPConnectionAPIClientModule(C-sharp)\obj\Debug\TCPConnectionAPIClientModule(C-sharp).pdb

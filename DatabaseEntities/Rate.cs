@@ -16,6 +16,7 @@ namespace DatabaseEntities
     {
 
         public int Id { get; set; }
+        public int EmployeeId { get; set; }
 
         public double Value { get; set; }
 

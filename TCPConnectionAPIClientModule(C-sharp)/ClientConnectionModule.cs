@@ -105,7 +105,7 @@ namespace TCPConnectionAPIClientModule_C_sharp_
 
         public AnswerFromServer RegisterNewExpert(Expert expert)
         {
-            protocol.SendCommand(CommandsToServer.RegisterNewClient);
+            protocol.SendCommand(CommandsToServer.RegisterNewExpert);
             protocol.SendObject(expert);
             return protocol.ReceiveAnswerFromServer();
         }

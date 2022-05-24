@@ -2,13 +2,13 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
--- Date Created: 05/15/2022 20:11:57
--- Generated from EDMX file: C:\Users\AndreyVlasov\source\repos\Премиров. сотр. мет. взвеш. эксп. оц. (на пр. кондитерской)\DatabaseEntities\EntityModel.edmx
+-- Date Created: 05/21/2022 10:31:16
+-- Generated from EDMX file: C:\Users\AndreyVlasov\source\repos\CourseWork\DatabaseEntities\EntityModel.edmx
 -- --------------------------------------------------
 
 SET QUOTED_IDENTIFIER OFF;
 GO
-USE [15];
+USE [CourseWork];
 GO
 IF SCHEMA_ID(N'dbo') IS NULL EXECUTE(N'CREATE SCHEMA [dbo]');
 GO
@@ -17,6 +17,9 @@ GO
 -- Dropping existing FOREIGN KEY constraints
 -- --------------------------------------------------
 
+IF OBJECT_ID(N'[dbo].[FK_EmployeeRate]', 'F') IS NOT NULL
+    ALTER TABLE [dbo].[RateSet] DROP CONSTRAINT [FK_EmployeeRate];
+GO
 
 -- --------------------------------------------------
 -- Dropping existing tables
@@ -33,6 +36,12 @@ IF OBJECT_ID(N'[dbo].[ClientSet]', 'U') IS NOT NULL
 GO
 IF OBJECT_ID(N'[dbo].[ExpertSet]', 'U') IS NOT NULL
     DROP TABLE [dbo].[ExpertSet];
+GO
+IF OBJECT_ID(N'[dbo].[EmployeeSet]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[EmployeeSet];
+GO
+IF OBJECT_ID(N'[dbo].[ProductSet]', 'U') IS NOT NULL
+    DROP TABLE [dbo].[ProductSet];
 GO
 
 -- --------------------------------------------------
