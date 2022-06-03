@@ -1,0 +1,11 @@
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Release\DatabaseEntities.dll.config
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Release\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Release\DatabaseEntities.pdb
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Release\EntityFramework.dll
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Release\EntityFramework.xml
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\obj\Release\DatabaseEntities.csproj.CoreCompileInputs.cache
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\obj\Release\DatabaseEntities.csproj.CopyComplete
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\obj\Release\DatabaseEntities.dll
+C:\Users\AndreyVlasov\source\repos\Курсовой проект\DatabaseEntities\obj\Release\DatabaseEntities.pdb
