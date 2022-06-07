@@ -70,8 +70,8 @@
     <Compile Include="ConnectedUserInfo.cs" />
     <Compile Include="DatabaseContext.cs" />
     <Compile Include="ExpertAbilityProtocol.cs" />
-    <Compile Include="IAdminAbilityProtocol.cs" />
-    <Compile Include="IClientAbilityProtocol.cs" />
+    <Compile Include="AbstractAdminAbilityProto.cs" />
+    <Compile Include="AbstractClientAbilityProtocol.cs" />
     <Compile Include="IDataModifyPermission.cs" />
     <Compile Include="IDataViewPermision.cs" />
     <Compile Include="IExpertAbilityProtocol.cs" />
@@ -88,6 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

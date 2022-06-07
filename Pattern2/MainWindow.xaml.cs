@@ -604,9 +604,13 @@ namespace Pattern2
         // Выход из прилоги
         private void BtnExit_Click(object sender, RoutedEventArgs e)
         {
-            UpdateProductList();
-            UpdateEmployeeList();
-            UpdateUserList();
+            if (typeOfUser == TypeOfUser.Admin)
+            {
+                UpdateProductList();
+                UpdateEmployeeList();
+                UpdateUserList();
+            }
+            
 
             module.PreviousRoom();
             OnStartSession();

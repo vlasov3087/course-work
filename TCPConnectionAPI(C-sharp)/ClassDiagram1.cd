@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TCPConnectionAPI_C_sharp_.AdminAbilityProtocol">
+    <Position X="9.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IgACQBAAAYAEIACAgQAEAEgAAABAAQgAAAAIIAABAIg=</HashCode>
+      <FileName>AdminAbilityProtocol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPConnectionAPI_C_sharp_.AbstractAdminAbilityProto">
+    <Position X="6.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IgAAQBAAAYAEIACAgAAEAEgAAABAAQgAAAAIIAABAIg=</HashCode>
+      <FileName>AbstractAdminAbilityProto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPConnectionAPI_C_sharp_.ExpertAbilityProtocol" Collapsed="true">
+    <Position X="18.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAAAACAAIAAAAAAAAIAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ExpertAbilityProtocol.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TCPConnectionAPI_C_sharp_.AbstractClientAbilityProtocol">
+    <Position X="4.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClientAbilityProtocol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPConnectionAPI_C_sharp_.ClientAbilityProtocol">
+    <Position X="2" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ClientAbilityProtocol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

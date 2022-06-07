@@ -39,7 +39,7 @@ namespace Pattern2
             }
 
             if (module.Registration<Client>(TypeOfUser.Client, new Client(EditLogin.Text, EditPassword.Password)) == AnswerFromServer.Successfully) { userType = TypeOfUser.Client; MessageBox.Show("Успешно"); Close(); }
-            else MessageBox.Show("Аккаунт с таким логином уже существует");
+            else MessageBox.Show("Аккаунт с тким логином уже существует");
         }
     }
 }
